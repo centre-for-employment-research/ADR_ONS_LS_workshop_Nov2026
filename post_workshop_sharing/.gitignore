@@ -1,0 +1,7 @@
+# Data files are not shared: download inputs as described in README.md
+*.dta
+*.csv
+*.xlsx
+*.xls
+*.log
+*.smcl
